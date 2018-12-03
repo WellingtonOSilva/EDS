@@ -1,8 +1,5 @@
 # Projeto Charter 
 
-Descrição
-
-
 ## Arquivos
 
  - Documentação do Projeto.docx
